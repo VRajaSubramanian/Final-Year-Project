@@ -5,7 +5,7 @@ Improved Deep Transformed model
 
 <p>Guided By:<h3>
   Dr.B. Lakshmanan, 
-Assistant Professor (Sl. Grade)
+Associate Professor
 CSE Department.
 
 </h3></p>
